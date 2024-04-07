@@ -1,0 +1,35 @@
+.container-fluid {
+  padding: 0;
+}
+
+.row {
+  height: 200;
+  display: flex;
+
+}
+
+.col-md-12 {
+  padding: 100;
+}
+
+.banner {
+  width:100%;
+  height:200px;
+  margin-bottom:50px;
+  background-color: #483d8b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-text {
+  top: 50%;
+  left: 50%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  color: #99eff7;
+  margin: 0;
+}
